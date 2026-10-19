@@ -2,9 +2,9 @@
 "use strict";
 /* ===== EDIT FOR EACH CLINIC ===== */
 var CONFIG={
- wa:"",                       // WhatsApp number with country code, digits only, e.g. "919876543210". Empty = WhatsApp opens and asks who to send to.
- tel:"",                      // phone for call links, e.g. "+919876543210"
- phoneText:"+91 98XXX XXXXX", // number shown on the page
+ wa:"919405409215",           // WhatsApp number with country code, digits only
+ tel:"+919405409215",         // phone for call links
+ phoneText:"+91 94054 09215", // number shown on the page
  mapQuery:"Vishrambag, Sangli, Maharashtra"
 };
 /* Opening hours, Monday first. Each day: list of [open, close] in 24h time, or [] when closed. Sample timings. */
